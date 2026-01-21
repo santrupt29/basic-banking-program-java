@@ -20,4 +20,4 @@ A simple console-based banking application written in Java.
 2. Open in Eclipse / IntelliJ
 3. Run `Main.java`
 
-Made while learning Java 🚀
+Made while learning Java
